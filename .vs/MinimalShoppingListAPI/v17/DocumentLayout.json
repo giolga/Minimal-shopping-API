@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{C66C6C80-E505-41F4-8DC7-B6344C777889}|MinimalShoppingListAPI\\MinimalShoppingListAPI.csproj|c:\\users\\giolga\\desktop\\minimalshoppinglistapi\\minimalshoppinglistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C66C6C80-E505-41F4-8DC7-B6344C777889}|MinimalShoppingListAPI\\MinimalShoppingListAPI.csproj|solutionrelative:minimalshoppinglistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66C6C80-E505-41F4-8DC7-B6344C777889}|MinimalShoppingListAPI\\MinimalShoppingListAPI.csproj|c:\\users\\giolga\\desktop\\minimalshoppinglistapi\\minimalshoppinglistapi\\grocery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66C6C80-E505-41F4-8DC7-B6344C777889}|MinimalShoppingListAPI\\MinimalShoppingListAPI.csproj|solutionrelative:minimalshoppinglistapi\\grocery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66C6C80-E505-41F4-8DC7-B6344C777889}|MinimalShoppingListAPI\\MinimalShoppingListAPI.csproj|c:\\users\\giolga\\desktop\\minimalshoppinglistapi\\minimalshoppinglistapi\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66C6C80-E505-41F4-8DC7-B6344C777889}|MinimalShoppingListAPI\\MinimalShoppingListAPI.csproj|solutionrelative:minimalshoppinglistapi\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +34,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MinimalShoppingListAPI\\MinimalShoppingListAPI\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "MinimalShoppingListAPI\\ApiDbContext.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MinimalShoppingListAPI\\MinimalShoppingListAPI\\ApiDbContext.cs",
+              "RelativeToolTip": "MinimalShoppingListAPI\\ApiDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:58:34.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grocery.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MinimalShoppingListAPI\\MinimalShoppingListAPI\\Grocery.cs",
+              "RelativeDocumentMoniker": "MinimalShoppingListAPI\\Grocery.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MinimalShoppingListAPI\\MinimalShoppingListAPI\\Grocery.cs",
+              "RelativeToolTip": "MinimalShoppingListAPI\\Grocery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:52:02.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MinimalShoppingListAPI\\MinimalShoppingListAPI\\Program.cs",
               "RelativeDocumentMoniker": "MinimalShoppingListAPI\\Program.cs",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MinimalShoppingListAPI\\MinimalShoppingListAPI\\Program.cs",
               "RelativeToolTip": "MinimalShoppingListAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T19:15:43.633Z",
               "EditorCaption": ""
